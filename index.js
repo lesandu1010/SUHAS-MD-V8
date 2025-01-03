@@ -14,9 +14,9 @@
 
 
 
-// * Project name - SUHAS- MD 
-// * Author - Suhas Pathsindu
-// * Team - Suhas Bro 
+// * Project name - 𝚂𝙰𝙳𝚄𝚆𝙰- MD 
+// * Author - 𝚂𝙰𝙳𝚄𝚆𝙰
+// * Team - 𝚂𝙰𝙳𝚄𝚆𝙰
 // * Version - V2
 
 // World best and powerfull whatsapp user bot in Sri lanka
@@ -47,7 +47,7 @@ const { File } = require('megajs')
 const prefix = '.'
 
 
-const ownerNumber = ['🧚‍♂️💕𝗔𝗱𝗱 𝗬𝗼𝘂𝗿 𝗕𝗼𝘁 𝗡𝘂𝗺𝗯𝗲𝗿 𝗛𝗲𝗿𝗲 𝗪𝗶𝘁𝗵 𝗖𝗼𝘂𝗻𝘁𝗿𝘆 𝗖𝗼𝗱𝗲💕🧚‍♂️']
+const ownerNumber = ['94774768279']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
